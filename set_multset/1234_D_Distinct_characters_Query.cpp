@@ -44,8 +44,8 @@ int main()
                 {
                     occurrences++;
                 }
-                cout << occurrences << endl;
             }
+            cout << occurrences << endl;
         }
     }
     return 0;
